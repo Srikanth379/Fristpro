@@ -1,6 +1,0 @@
-<html>
-<body>
-<h2>About</h2>
-<<<<<<< HEAD
-<p>we teach C, C++, JAva, Andriod, C#,javaaa Python,web .. etc...</p>
-
